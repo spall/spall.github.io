@@ -3,11 +3,6 @@
 
 @import "{{ site.theme }}";
 
-h1 {
-}
-
-img.displayed {
-}
-
-p.view {
+header {
+        border: 3px solid blue;
 }
